@@ -253,10 +253,10 @@ input:checked ~ .bubble::after {
 	
 .greeting .title input {
 	font-size: 1.15rem;
-	margin-left: 0.3rem;
+	margin-left: 0.35rem;
 }
 	
 .todo-item .todo-content input {
-	font-size: 0.675rem;
+	font-size: 0.6rem;
 }
 }
