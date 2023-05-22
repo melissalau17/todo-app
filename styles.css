@@ -245,3 +245,14 @@ input:checked ~ .bubble::after {
 	text-decoration: line-through;
 	color: var(--grey);
 }
+
+@media (max-width: 28.75em) {
+.greeting .title, 
+.greeting .title input {
+    font-size: 1.4rem;
+}
+	
+.todo-item .todo-content input {
+	font-size: 0.725rem;
+}
+}
