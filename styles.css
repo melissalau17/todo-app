@@ -257,10 +257,6 @@ input:checked ~ .bubble::after {
 }
 	
 .todo-item .todo-content input {
-	font-size: 0.675rem;
+	font-size: 0.7rem;
 }
-
-.create-todo {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
 }
