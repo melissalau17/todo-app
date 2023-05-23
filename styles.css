@@ -248,15 +248,19 @@ input:checked ~ .bubble::after {
 
 @media (max-width: 28.75em) {
 .greeting .title {
-    font-size: 1.4rem;
+    font-size: 1.25rem;
 }
 	
 .greeting .title input {
-	font-size: 1.15rem;
-	margin-left: 0.35rem;
+	font-size: 1.25rem;
+	margin-left: 0.3rem;
 }
 	
 .todo-item .todo-content input {
-	font-size: 0.625rem;
+	font-size: 0.675rem;
 }
+
+.create-todo {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
